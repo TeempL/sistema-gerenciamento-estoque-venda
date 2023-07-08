@@ -22,8 +22,8 @@ registro de vendas e geração de relatórios. O objetivo é auxiliar no control
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
-1.**Java**.
+**Java**.
 
-2.**JFrame e Java Swing**.
+**JFrame e Java Swing**.
 
-3.**JDBC**.
+**JDBC**.
