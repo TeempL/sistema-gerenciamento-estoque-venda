@@ -14,9 +14,9 @@ registro de vendas e geração de relatórios. O objetivo é auxiliar no control
 
 3.**Registro de Vendas:** Permite registrar vendas, associando os produtos vendidos aos clientes correspondentes e atualizando o estoque.
 
-4. **Geração de Relatórios:** O sistema é capaz de gerar relatórios com informações sobre o estoque atual, vendas realizadas e clientes cadastrados.
+4.**Geração de Relatórios:** O sistema é capaz de gerar relatórios com informações sobre o estoque atual, vendas realizadas e clientes cadastrados.
 
-5. **Gerenciamento de usuarios:** Gerenciar os usuarios que tem acesso ao sistema, da permissões e adicionar.
+5.**Gerenciamento de usuarios:** Gerenciar os usuarios que tem acesso ao sistema, da permissões e adicionar.
 
 ## Tecnologias Utilizadas
 
