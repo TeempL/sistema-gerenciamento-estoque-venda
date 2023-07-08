@@ -16,12 +16,12 @@ registro de vendas e geração de relatórios. O objetivo é auxiliar no control
 
 4.**Geração de Relatórios:** O sistema é capaz de gerar relatórios com informações sobre o estoque atual, vendas realizadas e clientes cadastrados.
 
-5. **Gerenciamento de usuarios:** Gerenciar os usuarios que tem acesso ao sistema, da permissões e adicionar.
+5.**Gerenciamento de usuarios:** Gerenciar os usuarios que tem acesso ao sistema, da permissões e adicionar.
 
 ## Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
-**Java**
-**JFrame e Java Swing**
-**JDBC**
+1.**Java**
+2.**JFrame e Java Swing**
+3.**JDBC**
